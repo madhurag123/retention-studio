@@ -15,7 +15,7 @@ Original topic: **Customer Churn Prediction** from [the source post](https://www
 - budget
 - audited task queue
 
-[Example output](reports/example-output.json) · [Recorded checks](reports/test-results.txt) · [Learning and interview guide](LEARNING_GUIDE.md)
+[Example output](reports/analysis.json) · [Recorded checks](reports/test-results.txt) · [Learning and interview guide](LEARNING_GUIDE.md)
 
 ## Start
 
@@ -67,3 +67,6 @@ Suggested extension: Add one eligibility rule to config/playbook.yaml and test i
 ## Honest portfolio use
 
 This implementation and documentation were developed with substantial Codex assistance. Before presenting it, run the demonstration, explain the design choices, and complete the suggested independent modification. Do not describe generated code as work experience, an accepted upstream contribution, or a deployed production service.
+
+
+[Publication provenance and current verification notes](PUBLICATION.md) · [Categorized collection](https://github.com/madhurag123/portfolio-index)
